@@ -1,0 +1,35 @@
+{
+  "name": "webinos-hmmstream",
+  "publishConfig": {
+    "tag": "alpha"
+  },
+  "description": "hmm server data stream",
+  "keywords": [
+    "webinos",
+    "hmm",
+    "stream"
+  ],
+  "version": "0.1.0",
+  "homepage": "http://webinos.org/",
+  "author": {
+    "name": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ziransun/webinos-hmmstream.git"
+  },
+  "bugs": {
+    "email": "webinos-wp4-ml@fokus.fraunhofer.de",
+    "url": ""
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+ 
+  },
+  "optionalDependencies": {
+  },
+  "bundleDependencies": []
+}
