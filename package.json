@@ -27,6 +27,9 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
+
+    "socket.io": "x.x.x",
+    "xml2js": "x.x.x" 
  
   },
   "optionalDependencies": {
